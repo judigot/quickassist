@@ -2,4 +2,4 @@
 	name = judigot
 	email = judigot@gmail.com
 [credential "helperselector"]
-	selected = wincred
+	selected = store
