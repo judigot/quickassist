@@ -6,6 +6,4 @@ $(function () {
             $("#quickassist").quicktoggle();
         }
     });
-    // console.log();
-    
 });
